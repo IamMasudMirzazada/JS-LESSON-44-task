@@ -1,0 +1,35 @@
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+#itp2 {
+  border: none;
+  outline: none;
+  padding: 5px;
+  background-color: yellowgreen;
+}
+#btn2 {
+  border-radius: 10px;
+  padding: 5px 20px;
+  background-color: red;
+  border: none;
+ margin-left: 15px;
+ 
+}
+ 
+.div2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(255, 208, 0);
+  width: 25%;
+  margin: auto;
+  border-radius: 5px;
+  height: 120px;
+}
